@@ -20,3 +20,7 @@ cell is the parameter of the arrow function. It represents each element in an ar
 => is the arrow function syntax itself. It separates the parameters from the function body.
 cell.textContent is the expression to the right of the arrow, which represents the return value of the function. In this case, it's accessing the textContent property of the cell object.
 Arrow functions are often used in JavaScript for their concise syntax, especially in situations where you need to pass a callback function, such as in array methods like map(), filter(), and forEach().
+
+
+#next function:
+should have a undo button to erase selected cell content.
