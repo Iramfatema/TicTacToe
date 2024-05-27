@@ -13,7 +13,7 @@ To get started with this application, follow these simple steps:
 
 1. **Clone the Repository:**
     ```
-    git clone https://github.com/your-username/tic-tac-toe-webgame.git
+    git clone https://github.com/Iramfatema/TicTacToe.git
     ```
 2. **Navigate to the Project Directory:**
     ```
